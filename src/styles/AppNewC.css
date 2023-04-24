@@ -1,0 +1,61 @@
+
+  #meeting-info-indication {
+ display: none !important;
+}
+
+#app-signal{
+
+ display: none !important;
+}
+ /*
+#zmmtg-root {
+  height: 100vh !important;
+}
+
+#zmmtg-root .ReactVirtualized__Grid__innerScrollContainer {
+  height: 100% !important;
+}
+
+#zmmtg-wrapper {
+  height: 100% !important;
+}
+
+#meeting-participant-wrap {
+  height: 100% !important;
+}
+
+#meeting-participant {
+  height: 100% !important;
+}
+
+#meeting-view {
+  height: 100% !important;
+}
+
+#meeting-top-bar {
+  display: none !important;
+}
+
+#meeting-bottom-bar {
+  display: none !important;
+}
+
+#wc-footer {
+  display: none !important;} */
+
+  /* .participants-section-container__participants-footer-bottom {
+
+ display: none !important;
+    
+  } */
+   .footer__btns-container {
+
+ display: none !important;
+    
+  }
+/* 
+<div class="participants-section-container__participants-footer-bottom window-content-bottom"><button type="button" class="ax-outline-blue-important btn btn-sm btn-default">Invite</button><button type="button" class="ax-outline-blue-important btn btn-sm btn-default">Unmute</button><button type="button" class="ax-outline-blue-important btn btn-sm btn-default">Raise hand</button></div> 
+
+
+*/
+ 
